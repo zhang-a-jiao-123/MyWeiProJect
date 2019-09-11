@@ -11,5 +11,15 @@ public class MyDemo {
         System.out.println("我编写了第二个功能");
         System.out.println("不可以随便删");
         System.out.println("非要删除");
+        System.out.println("我编写了第一个功能");
+        System.out.println("我编写了第二个功能");
+        System.out.println("我编写了第一个功能");
+        System.out.println("我编写了第二个功能");
+        System.out.println("我编写了第一个功能");
+        System.out.println("我编写了第二个功能");
+        System.out.println("我编写了第一个功能");
+        System.out.println("我编写了第二个功能");
+        System.out.println("我编写了第一个功能");
+        System.out.println("我编写了第二个功能");
     }
 }
